@@ -1,6 +1,5 @@
 Docker image for Headless chrome on top of alpine linux
 ============
----
 
 1. Chrome version: 61
 2. Chrome driver: 2.30
